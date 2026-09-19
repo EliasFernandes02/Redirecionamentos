@@ -1,0 +1,5 @@
+1- Preciso que vossas senhorias criem alguns botões que irão redirecionar para as seguintes aplicações: olx, amazon e shopee.
+
+2- Preciso que vossas senhorias criem alguns redirecionamentos internos para uma página, coloquem um menu com tag a de no mínimo 4 elementos redirecionando para tags de titulo.
+
+3- Criem uma página principal que será uma homepage, essa homepage terá um menu que irá redirecionar para outras páginas html da sua aplicação. Coloquem também um botão para voltar para a homepage.
